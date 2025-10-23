@@ -19,4 +19,9 @@ Theo : git add . (pour ajouter toutes les modifications a l'index)
 Theo : git commit (pour commit tout ce qui se trouve dans l'index, cela ouvre un editeur de texte permettant d'écrire une description du commit (on peut egalement faire -m 'le message' ) 
 Theo : git push pour envoyer toutes les modifications sur la branch travail en distante
 
-Mylo : git checkout origin/travail
+Mylo : git checkout origin/travail ( joindre la branche de théo ) 
+Mylo : touch presentation.txt ( création du fichier ) 
+Mylo : nano presentation.txt ( modification )
+Mylo : git add . ( ajoute tout à l'index )
+Mylo : git commit ( dire ce que j'ai modifié )
+Mylo : git push ( envoyer tout sur le github )
