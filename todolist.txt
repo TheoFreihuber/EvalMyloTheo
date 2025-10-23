@@ -1,0 +1,7 @@
+- Créer et compléter la présentation
+
+- Envoie de branches sur repos distant (déjà fait techniquement)
+
+- Merge des branches
+
+- Pas d'autre idée mais je sais toujours compté jusqu'à 4
